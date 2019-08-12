@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb8895d2-81a9-41e3-9c77-3fbdc1fc144e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="916">
+              <caret line="128" column="26" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/boot.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>navbar</find>
+      <find>li</find>
+      <find>webkit-scrollbar</find>
+      <find>item1</find>
+      <find>footer</find>
+      <find>navbar-light</find>
+      <find>new_i</find>
+      <find>toolbar</find>
+      <find>footer-color</find>
+      <find>style</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/style_test.css" />
+        <option value="$PROJECT_DIR$/css/style_test.scss" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/js/testjs.js" />
+        <option value="$PROJECT_DIR$/sliderengine/jquery.js" />
+        <option value="$PROJECT_DIR$/js/owl.carousel.min.js" />
+        <option value="$PROJECT_DIR$/css/boot.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1300" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="poushka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poushka" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pooshka" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\poushka\images\socials" />
+      <recent name="C:\xampp\htdocs\poushka\images\cats" />
+      <recent name="C:\xampp\htdocs\poushka\css" />
+      <recent name="C:\xampp\htdocs\poushka\js" />
+      <recent name="C:\xampp\htdocs\poushka" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\poushka" />
+      <recent name="C:\xampp\htdocs\poushka\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8895d2-81a9-41e3-9c77-3fbdc1fc144e" name="Default" comment="" />
+      <created>1562784794931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562784794931</updated>
+      <workItem from="1562784796789" duration="1215000" />
+      <workItem from="1562959164715" duration="2273000" />
+      <workItem from="1563038127298" duration="8609000" />
+      <workItem from="1563126305070" duration="1724000" />
+      <workItem from="1563128561332" duration="107000" />
+      <workItem from="1563128697573" duration="5525000" />
+      <workItem from="1563212045335" duration="5685000" />
+      <workItem from="1563297061143" duration="8437000" />
+      <workItem from="1563379765781" duration="12498000" />
+      <workItem from="1563467039655" duration="99000" />
+      <workItem from="1563514145958" duration="13782000" />
+      <workItem from="1563555798290" duration="2081000" />
+      <workItem from="1563733229568" duration="24000" />
+      <workItem from="1563733331932" duration="6463000" />
+      <workItem from="1563817124238" duration="8767000" />
+      <workItem from="1563901613087" duration="5945000" />
+      <workItem from="1564426896345" duration="1111000" />
+      <workItem from="1564508517658" duration="5584000" />
+      <workItem from="1564595904222" duration="4110000" />
+      <workItem from="1564722733589" duration="4810000" />
+      <workItem from="1564736246150" duration="4023000" />
+      <workItem from="1564749615258" duration="9754000" />
+      <workItem from="1564772939880" duration="3602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123033000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24676375" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24676375" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/IRANSans/WebFonts/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebFonts/IRANSans.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/IRANSans/WebFonts/IRANSans.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/IRANSans/WebFonts/css/fontiran.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="4226" column="22" selection-start-line="4226" selection-start-column="19" selection-end-line="4226" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sliderengine/amazingslider-1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_test.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/testjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="105" column="52" lean-forward="true" selection-start-line="105" selection-start-column="52" selection-end-line="105" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sliderengine/initslider-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="178" column="38" selection-start-line="178" selection-start-column="38" selection-end-line="178" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sliderengine/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38336">
+          <caret line="386" column="24" lean-forward="true" selection-start-line="386" selection-start-column="24" selection-end-line="386" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10370">
+          <caret line="610" column="36" lean-forward="true" selection-start-line="610" selection-start-column="36" selection-end-line="610" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.theme.default.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#68093#68418#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/telegram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="436" column="17" lean-forward="true" selection-start-line="436" selection-start-column="17" selection-end-line="436" selection-end-column="17" />
+          <folding>
+            <element signature="e#91455#91685#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1657">
+          <caret line="4342" column="1" selection-start-line="4342" selection-start-column="1" selection-end-line="4342" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/boot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="128" column="26" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
